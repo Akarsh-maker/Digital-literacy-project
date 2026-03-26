@@ -26,6 +26,7 @@ Every task included here is designed to foster a safer, more professional, and h
 ### 💻 [Task 3: Coding & Collaboration](./task-3-platforms/)
 * **Focus:** Technical skill-building and data collection.
 * **Deliverable:** Proof of HackerRank challenge completion and a 5-question 'Digital Literacy Awareness Quiz' created via Google Forms.
+* **🔗 Live Quiz Link:** [Take the Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLScTbxXSEQhRD50q2o1pxp88TAjXA94birbQ6jqETJz4R5Frpw/viewform?usp=header)
 
 ### ✉️ [Task 4: Professional Communication](./task-4-email-etiquette/)
 * **Focus:** Mastering formal email tone and social media ethics.
